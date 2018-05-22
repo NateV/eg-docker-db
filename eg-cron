@@ -1,5 +1,0 @@
-
-
-0 5 * * * rm /var/www/html/docketSheets/*
-0 5 * * * rm /var/www/html/data/*
-
